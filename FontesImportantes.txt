@@ -1,0 +1,5 @@
+https://www.instructables.com/id/Air-Conditioning-web-controlled-by-Arduino/
+
+https://play.google.com/store/apps/details?id=com.weedle.universal_ac_remote&hl=en
+
+https://github.com/WiserUFBA/ArduMideaWrapper
