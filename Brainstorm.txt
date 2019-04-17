@@ -1,0 +1,23 @@
+FOCO: economia de energia
+
+Fazer uma coisa padrão que serve pra todos os casos.
+Fazer algo que bloqueie os sinais externos do ar.
+
+Vai ser só pra sala de aula?
+
+Ver o Horário pela internet e bloquear o ar de ligar das 0h às 6h?
+
+Pra isso vamos usar o arduíno primeiro.
+
+Celular bluetooth arduíno infra red ar cordicionado.
+
+No apicativo:
+Várias limitações pra ligar o ar
+Horário, Temperatura da sala e Calendário de uso.
+
+Dar uma opção pra pessoa ligar ou não o ar.
+
+O acesso no aplicativo perte que a pessoa ligue com limitações ou desligue a hora que ela quiser,
+mas acabou o tempo de uso o ar desliga.
+
+Pra isso teria um sensor de temperatura e horário de uso.
